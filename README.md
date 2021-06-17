@@ -1,0 +1,3 @@
+# chat-app-apis
+This repo contains all the apis that will be helpful in building my connectora...
+You can fork or download this repo to test all the apis in postman..
